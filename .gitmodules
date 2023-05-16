@@ -4,3 +4,6 @@
 [submodule "locality"]
 	path = locality
 	url = https://github.com/daliaWdswrth/locality.git
+[submodule "arith"]
+	path = arith
+	url = https://github.com/daliaWdswrth/arith.git
